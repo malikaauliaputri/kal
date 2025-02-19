@@ -1,4 +1,9 @@
-# Welcome to your Jupyter Book
+# Sistem Persamaan Linier
+## Definisi Sistem Persamaan Linier
+## Solusi persamaan Linier
+#### Eliminasi
+#### Eliminasi Gauss
+#### Solusi Grafik
 
 This is a small sample book to give you a feel for how book content is
 structured.
