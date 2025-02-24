@@ -50,6 +50,7 @@ $$
 $$
  
  Solusi Akhir
+ 
 $$
 \begin{aligned}
 x_1&=2-t\\
