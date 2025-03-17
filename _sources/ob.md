@@ -1,5 +1,5 @@
-## Penyelesaian Sistem Persamaan Linier
-### Operasi Baris Elementer 
+# Penyelesaian Sistem Persamaan Linier
+## Operasi Baris Elementer 
 
 ### Eliminasi Gauss
 
@@ -102,5 +102,4 @@ $$
 \end{bmatrix}
 $$
 
-### Matriks
 
