@@ -6,5 +6,5 @@ Persamaan linear adalah persamaan yang jika digambarkan pada koordinat kartesius
 #### Eliminasi Gauss
 #### Solusi Grafik
 
-```{tableofcontents}
+# Transformasi Linier
 ```
